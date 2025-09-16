@@ -30,8 +30,6 @@
     /*--fonts--*/
 
     --font-family: 'Poppins', sans-serif;
-    --h1: 32px/120% bold var(--font-family);
-    --h2: 24px/120% bold var(--font-family);
-    --h3: 20px/120% bold var(--font-family);
-    --h4: 16px/120% bold var(--font-family);
+    --text: 1rem/1.5 var(--font-family);
+    --text-sm: .875rem/1.4 var(--font-family);
 }
